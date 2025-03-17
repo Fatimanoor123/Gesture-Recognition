@@ -14,7 +14,7 @@ Make sure you have Python installed. Then, install the required dependencies:
 ```bash
 pip install opencv-python mediapipe numpy
 '''
-
+```
 ## 🎯 How to Run the Project
 
 ### Clone the Repository
